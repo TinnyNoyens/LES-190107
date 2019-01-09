@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Les190107", "Architect in Les\Les190107.csproj", "{930B6B3D-990B-48B4-9D83-455F70379145}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessFacade", "..\BusinessFacade\BusinessFacade.csproj", "{DB8FC1CD-C073-41F9-A62F-50C65D1364C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{D128E543-471F-4E57-B6BC-7E5026AED398}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{930B6B3D-990B-48B4-9D83-455F70379145}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{930B6B3D-990B-48B4-9D83-455F70379145}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{930B6B3D-990B-48B4-9D83-455F70379145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB8FC1CD-C073-41F9-A62F-50C65D1364C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB8FC1CD-C073-41F9-A62F-50C65D1364C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB8FC1CD-C073-41F9-A62F-50C65D1364C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB8FC1CD-C073-41F9-A62F-50C65D1364C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D128E543-471F-4E57-B6BC-7E5026AED398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D128E543-471F-4E57-B6BC-7E5026AED398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D128E543-471F-4E57-B6BC-7E5026AED398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D128E543-471F-4E57-B6BC-7E5026AED398}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
